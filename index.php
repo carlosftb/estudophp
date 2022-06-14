@@ -1,6 +1,5 @@
 <?php
 
-echo "Olá mundo";
-echo "olá mundo udemy";
+echo "olá mundo";
 
 ?>
